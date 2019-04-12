@@ -1,4 +1,4 @@
-Rainbow
+Rainbow and unicorns
 
 red
 orange
@@ -6,5 +6,6 @@ yellow
 green
 blue
 purple
+unicorn
 
-Rainbow colors
+Rainbow colors and Unicorns
