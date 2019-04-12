@@ -4,5 +4,6 @@ red
 orange
 yellow
 green
+blue
 
 Rainbow colors
