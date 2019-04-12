@@ -1,4 +1,4 @@
-Rainbow and unicorns
+Rainbow and unicorns and ponies
 
 red
 orange
@@ -7,5 +7,6 @@ green
 blue
 purple
 unicorn
+ponies
 
 Rainbow colors and Unicorns
